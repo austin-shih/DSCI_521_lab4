@@ -312,7 +312,7 @@ rubric={mechanics:6}
 5. Activate GitHub pages and paste the link below.
 ```
 
-YOUR ANSWER GOES HERE
+<https://austin-shih.github.io/DSCI_521_lab4/521_lab4_Q10.html#1>
 
 ```{block, type="alert alert-info"}
 #### (Challenging) Question 11
