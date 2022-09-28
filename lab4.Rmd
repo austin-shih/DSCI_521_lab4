@@ -248,7 +248,9 @@ to the GitHub repository for this lab
 and paste the two links below this question.
 ```
 
-YOUR ANSWER GOES HERE
+1. <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.Rmd>
+2. <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.html>
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.pdf>
 
 ```{block, type="alert alert-info"}
 #### Question 8
@@ -267,7 +269,8 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.Rmd>
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.html>
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
@@ -281,7 +284,8 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-YOUR ANSWER GOES HERE
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q9.md>
+The .md file has rendered in a way that text sections can be viewed and code chunks can be copied on Github. Unlike html which just rendered the raw code on Github or the pdf render which just save an un-editable pdf file, the .md file can be viewed and edited on Github.
 
 ```{block, type="alert alert-info"}
 #### Question 10

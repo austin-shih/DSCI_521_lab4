@@ -1,0 +1,37 @@
+---
+title: "521 Lab4 Q10"
+author: "Austin Shih"
+date: "2022-09-28"
+output: xaringan::moon_reader
+---
+## Slide 1
+
+```{r Code Chunk 1}
+a <- 10
+b <- 5
+print(a^b)
+```
+
+---
+## Slide 2
+
+```{r Code Chunk2}
+c <- c(2, 4, 6, 8)
+d <- c*2
+d
+```
+
+---
+## Slide 3
+
+```
+testing out text sections
+```
+
+---
+## Slide 4
+
+```
+Latex text sections and latex maths
+```
+$\frac{\alpha}{\beta}$
