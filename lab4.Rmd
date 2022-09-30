@@ -137,6 +137,8 @@ f <- d^(1/e)
 print(f)
 ```
 
+    The above option runs the code chunk but only shows the output and not the code itself.
+
 #### Multiple code chunk options
 
 To have multiple code chunk options you separate them by a comma. For
@@ -159,10 +161,9 @@ h <- 2023
 paste(g, h)
 ```
 
-error=TRUE will display any error messages from this code chunk\
-echo=TRUE will display the code in this code chunk after it is knit\
-highlight=TRUE will highlight the code in this code chunk after it is
-knit
+- error=TRUE will display any error messages from this code chunk\
+- echo=TRUE will display the code in this code chunk after it is knit\
+- highlight=TRUE will highlight the code in this code chunk after it is knit
 
 ### 1.5. YAML Header and document output options
 
@@ -248,9 +249,11 @@ to the GitHub repository for this lab
 and paste the two links below this question.
 ```
 
-1. <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.Rmd>
-2. <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.html>
-<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.pdf>
+-   .Rmd file link
+    <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.Rmd>
+
+1.  <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.html>
+2.  <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q7.pdf>
 
 ```{block, type="alert alert-info"}
 #### Question 8
@@ -269,8 +272,10 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.Rmd>
-<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.html>
+-   .Rmd file link:
+    <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.Rmd>
+-   html link:
+    <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q8.html>
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
@@ -284,8 +289,12 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q9.md>
-The .md file has rendered in a way that text sections can be viewed and code chunks can be copied on Github. Unlike html which just rendered the raw code on Github or the pdf render which just save an un-editable pdf file, the .md file can be viewed and edited on Github.
+-   <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_austinsh/blob/master/521_lab4_Q9.md>
+-   The .md file has rendered in a way that text sections can be viewed
+    and code chunks can be copied on Github. Unlike html which just
+    rendered the raw code on Github or the pdf render which just save an
+    un-editable pdf file, the .md file can be viewed and edited on
+    Github.
 
 ```{block, type="alert alert-info"}
 #### Question 10
